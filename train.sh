@@ -1,0 +1,1 @@
+python ./yolov5/train.py --data mydata.yaml --weights ./yolov5/yolov5n.pt --img 640 --epochs 20 --batch-size 32 --project NWPU-seg

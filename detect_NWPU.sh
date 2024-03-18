@@ -1,0 +1,1 @@
+python ./yolov5/detect.py  --source ./NWPU-VHR-10-dataset/positive-image-set/ --weights ./NWPU-seg/exp/weights/best.pt --project NWPU-detect 

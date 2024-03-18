@@ -1,0 +1,6 @@
+names:
+- car
+- notcar
+nc: 2
+train: /home/ywn/yolov5_vedai/vedai_data/train/images
+val: /home/ywn/yolov5_vedai/vedai_data/valid/images

@@ -1,0 +1,15 @@
+val: /home/ywn/yolov5_vedai/NWPU/val.txt
+train: /home/ywn/yolov5_vedai/NWPU/train.txt
+test: /home/ywn/yolov5_vedai/NWPU/test.txt
+names:
+- airplane
+- ship
+- storage tank
+- baseball diamond
+- tennis court
+- basketball court
+- ground track field
+- harbor
+- bridge
+- vehicle
+nc: 10
